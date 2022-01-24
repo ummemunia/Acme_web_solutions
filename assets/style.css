@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+}
+.banner{
+    background-image: url("img/banner.png");
+    width:auto;
+    height:400px;
+    text-align:center;
+    opacity: 0.79;
+}
+.txt{
+    position: absolute;
+    top: 13%;
+    color:white;
+    margin: 0px 315px;
+    padding: 0px 100px;
+}
+
+.txt a{
+    text-decoration: none;
+    color: white;
+}
+.txt button{
+    padding: 10px 20px;
+    background-color: black;
+    margin: 30px 0px 20px;
+}
+.webl{
+    width: 40%;
+    text-align: left;
+    display: inline-block;
+    margin: 0px 10px 0px 90px;;
+}
+.p1{
+    margin-left: 200px;
+}
+.p2{
+    margin-right: 200px;
+    margin-bottom: 40px;
+}
+.throw{
+    background-color: black;
+    margin: 30px 0px 50px;
+}
+.web{
+    width: 5%;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    margin: 40px -90px 50px 310px;
+    
+}
+.web div{
+    background-color: white;
+    color: black;
+    margin: -24px -199px 0px 0px;
+    padding: 55px 38px;
+}
+
+
+.frowl{
+    width: 49.7%;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background-color: royalblue;
+    color: white;
+    height: 250px;
+}
+.frowl div{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 60px 0px 130px;
+    text-align: center;
+    
+}
+.frowr{
+    width: 50%;
+    display: inline-block;
+    margin: 0px 0px 0px -4px;
+    padding: 0px 4.58px 0px 0px;
+    background-color: black;
+    color: white;
+    height:250px;
+}
+.frowr div{
+    margin: 0px 0px 0px 0px;
+    padding: 40px 130px 0px 60px;
+    text-align: center;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px 0px 20px 330px;
+    font-size: 20px;
+}
+
+
